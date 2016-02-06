@@ -1,2 +1,5 @@
 February 4th
 worked on trying to get the cluster running
+February 5th
+-got ub1 to 15.10 now getting ub0 to 15.10
+-i know how to edit the host file, i think nfs is already installed 
