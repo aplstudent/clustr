@@ -3,3 +3,10 @@ worked on trying to get the cluster running
 February 5th
 -got ub1 to 15.10 now getting ub0 to 15.10
 -i know how to edit the host file, i think nfs is already installed 
+-got through up to testing 
+February7th
+-doing ssh connection and setting up keychain made mpiu a admin 
+-mirror is empty on slave
+-did the steps on the apl wiki 
+-the mirror is empty on ub1 which we think is the main problem it isn't mounting for some reason
+-the keychain on the ssh is not working
